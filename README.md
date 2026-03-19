@@ -1,2 +1,3 @@
-# smart-cli-tool-ixhu
-A command-line tool for modern development workflows
+# Smart Cli Tool Ixhu
+
+A command-line tool for modern development workflows.
